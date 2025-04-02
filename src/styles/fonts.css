@@ -1,0 +1,11 @@
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+
+:root {
+  --font-sf: 'SF Pro Display', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+}
+
+body {
+  font-family: var(--font-sf);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
